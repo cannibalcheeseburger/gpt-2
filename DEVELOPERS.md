@@ -86,3 +86,8 @@ To check flag descriptions, use:
 ```
 python3 src/interactive_conditional_samples.py -- --help
 ```
+
+To input a txt file copy the text to `input.txt` and output will be stored in `output.txt`
+```
+python src/input.py --top_k 40
+```
